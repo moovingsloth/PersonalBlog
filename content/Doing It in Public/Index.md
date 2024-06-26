@@ -5,7 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Readme
     - greedy
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
